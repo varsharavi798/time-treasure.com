@@ -1,0 +1,135 @@
+
+
+nav{
+        
+    background-color: black;
+    padding: 10px; 
+
+}
+li,h1{
+    color:yellowgreen;
+    display: inline;
+
+}
+h1{
+    text-align: center;
+padding-left: 10px;
+padding-top: 60px;
+margin-top: 10px;
+font-size: 40px;
+}
+ul{
+    padding-left: 80%;
+}
+input{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 850px;
+    padding: 8px;
+}
+
+.box{
+ 
+    border-color: black;
+   border-width: 2px;
+   border-style: solid;
+  display:inline-block;
+  width: 220px;
+  padding: 20px;
+  margin: 40px 50px 25px 50px;
+background-color: white;
+
+}
+  
+  
+
+li:hover{
+color: red;
+display: inline;
+cursor: pointer;
+
+}
+
+h3{
+    font-style: bold;
+    text-align: center;
+}
+
+h4{
+    font-style: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    font-style: bold;
+}
+h5{
+    text-decoration: line-through;
+text-align: center;
+
+
+}
+
+.btn{
+    width: 9em;
+    height: 3em;
+    border-radius: 30em;
+    font-size: 15px;
+    font-family: inherit;
+    border-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #c5c5c5,-6px -6px 12px #ffffff;
+    justify-content: center;
+    background-color: limegreen;
+    margin: 10px;
+    margin-left: 30px;
+
+}
+
+
+
+.btn:hover{
+    color: red;
+
+
+}
+.ftr{
+    background-color: black;
+    color: olive; 
+    padding-top: 3px;
+    text-align: center;
+}
+
+
+
+.section1:hover{
+    color: whitesmoke;
+    cursor: pointer;
+    
+}
+.section:hover{
+    color:aqua;
+    cursor: pointer;
+}
+.x{
+    text-align: center;
+    font-family: inherit;
+    cursor: pointer;
+}
+.x:hover{
+    color:mediumvioletred;
+}
+.y{
+    text-align: center;
+    font-family: inherit;
+    padding-bottom: 5px;
+    cursor:pointer;
+}
+
+.y:hover{
+    color:blue;}
